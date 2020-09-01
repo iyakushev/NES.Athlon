@@ -1,8 +1,9 @@
 *.xcodeproj
 *build
 *cmake_install.cmake
-*CMakeScripts*
-*CMakeFiles*
+*CMakeScripts
+*CMakeFiles
 *Debug*
 .DS_Store
 cmake-build-debug
+.idea
